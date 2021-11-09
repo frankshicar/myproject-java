@@ -1,6 +1,6 @@
 package com.frank;
 
-public class myproject {
+public class 九九乘法表 {
     public static void main(String[] args) {
         for( int i = 1 ; i<= 9 ; i++){
             for( int a= 2 ; a <= 5 ; a++){
